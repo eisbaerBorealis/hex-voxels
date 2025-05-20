@@ -11,7 +11,7 @@ https://www.youtube.com/playlist?list=PLtzt35QOXmkKALLv9RzT8oGwN5qwmRjTo
 
 Navigate to parent folder
 > npm create vite@latest
-    "003-minecraft-clone"
+    "hex-voxels"
     Vanilla
     Javascript
 > npm i
