@@ -1,7 +1,7 @@
 {
   "name": "hex-voxels",
   "private": true,
-  "version": "0.1.3",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,9 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.3.1"
-  },
-  "dependencies": {
-    "three": "^0.176.0"
+    "vite": "^6.3.5"
   }
 }
